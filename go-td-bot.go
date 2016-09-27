@@ -6,7 +6,7 @@ import (
 
 func main() {
   // подключаемся к боту с помощью токена
-  bot, err := tgbotapi.NewBotAPI("264575389:AAEwB_5uEkre_imKksqlp8BIV_3UKlSYYHE")
+  bot, err := tgbotapi.NewBotAPI("264575389:AAHNs2ReL4agIBWJZS3vLMcK1Z_4e1Hgt9Y")
 	if err != nil {
 		log.Panic(err)
 	}
